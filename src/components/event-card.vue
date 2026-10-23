@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { FestivalEvents } from "../data/events.ts";
+import { FestivalEvents } from "../data/FestivalEvents.ts";
 
 defineProps<{
   event: FestivalEvents;
